@@ -24,23 +24,19 @@ Monthly data cleaned and appended in a sheet: <br/>
 <br />
 <br />
 Connecting and Merging tables using powerquery:  <br/>
-<img src="https://imgur.com/yrBRprk" height="80%" width="80%" alt="Project Steps"/>
+<img src="https://i.imgur.com/yrBRprk.png" height="80%" width="80%" alt="Project Steps"/>
 <br />
 <br />
 Creating pivot tables for visualization: <br/>
-<img src="https://imgur.com/A5dBuPV" height="80%" width="80%" alt="Project Steps"/>
+<img src="https://imgur.com/A5dBuPV.png" height="80%" width="80%" alt="Project Steps"/>
 <br />
 <br />
 Creating visualization inserting shapes:  <br/>
-<img src="https://imgur.com/8QrTBuC" height="80%" width="80%" alt="Project Steps"/>
+<img src="https://imgur.com/8QrTBuC.png" height="80%" width="80%" alt="Project Steps"/>
 <br />
 <br />
 The interactive dashboard:  <br/>
-<img src="https://imgur.com/KkBRqw6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://imgur.com/KkBRqw6" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/KkBRqw6.png" height="80%" width="80%" alt="Project Steps"/>
 </p>
 
 <!--
